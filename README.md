@@ -24,6 +24,30 @@ I work on automating software delivery, provisioning cloud infrastructure using 
 
 My interests also extend to Machine Learning and modern AI systems. I'm currently expanding my knowledge of Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI agents, with a long-term goal of combining cloud engineering and intelligent application development.
 
+
+
+## 🚀 Featured Product — LoopCode
+
+### 🤖 [LoopCode — AI Coding Agent](https://loopcode.heksync.in/)
+
+**From ideas to implementation — building AI-powered developer tools with my team.**
+
+I'm contributing to **LoopCode**, a live AI-powered coding application that we're building as a team. Inspired by the evolution of tools like Google Antigravity and Amazon Kiro, our goal is to make AI-assisted software development more accessible, productive, and cost-effective.
+
+LoopCode brings AI-assisted development into developers' workflows through desktop, command-line, and VS Code experiences.
+
+**✨ What makes LoopCode exciting**
+- 🧠 **Codebase understanding:** Help developers explore existing code and understand project context.
+- 🛠️ **AI-assisted development:** Support coding, debugging, and refactoring workflows.
+- 📋 **Plan and execute:** Turn development requests into implementation steps and code changes.
+- 🔍 **Developer control:** Review changes, inspect results, and guide the coding process.
+- 💡 **Cost-conscious AI:** Our vision is to deliver strong coding results while making AI-assisted development more affordable.
+
+**🤝 My contribution:** Building LoopCode alongside my teammates and contributing to our vision of making AI-powered software development more accessible.
+
+🌐 **Explore the live product:** https://loopcode.heksync.in/
+
+
 - ☁️ **Cloud:** AWS infrastructure, networking, storage, and serverless services
 - 🐳 **Containers:** Docker, Kubernetes, and Amazon EKS
 - ⚙️ **Automation:** Terraform, GitHub Actions, Jenkins, and Argo CD
