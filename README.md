@@ -9,7 +9,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=800&lines=Cloud+Infrastructure+%26+Automation;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+Monitoring;Exploring+LLMs%2C+RAG+%26+AI+Agents)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-mallangi-0085a1300/)
-[![GitHub](https://img.shields.io/badge/GitHub-HARI--COLLA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HARI-COLLA)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mallangiharinathreddy727@gmail.com)
 [![LoopCode](https://img.shields.io/badge/LoopCode-Live%20Product-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://loopcode.heksync.in/)
 
