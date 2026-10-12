@@ -57,7 +57,7 @@ Our goal is to make AI-assisted software development more accessible, productive
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,git,github,githubactions,jenkins,prometheus,grafana,python,java,mysql,postgres,mongodb,react,nodejs,typescript,pytorch,tensorflow" alt="AWS, Terraform, Docker, Kubernetes, Linux, Git, GitHub, GitHub Actions, Jenkins, Prometheus, Grafana, Python, Java, MySQL, PostgreSQL, MongoDB, React, Node.js, TypeScript, PyTorch and TensorFlow" />
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,git,github,githubactions,jenkins,prometheus,grafana,python,java,mysql,postgres,mongodb,react,nodejs,typescript,pytorch,tensorflow" alt="AWS, Terraform, Docker, Kubernetes, Linux, Git, GitHub, GitHub Actions, Jenkins, Prometheus, Grafana, Python, Java, MySQL, MongoDB, React, Node.js" />
 
 <br/><br/>
 
