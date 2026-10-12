@@ -159,25 +159,6 @@ Deployed a containerized 2048 game on Kubernetes and configured external access 
 
 </details>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=HARI-COLLA&show_icons=true&hide_border=true&theme=tokyonight" />
-
-<img height="165" alt="Most used programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARI-COLLA&layout=compact&hide_border=true&theme=tokyonight" />
-
-<img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=HARI-COLLA&theme=tokyonight&hide_border=true" />
-
-<img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=HARI-COLLA&theme=tokyo-night&hide_border=true" />
-
-<img alt="GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=HARI-COLLA&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
 
 ## 🎓 Education, Certifications & Achievements
 
