@@ -2,7 +2,7 @@
 
 # Hi, I'm Mallangi Harinath Reddy 👋
 
-### ☁️ Cloud & DevOps Engineer | Site Reliability Engineering (SRE)
+### ☁️ Cloud & DevOps Engineer | SRE | Building LoopCode
 
 **Building reliable cloud infrastructure, automating deployments, and exploring AI-powered systems.**
 
@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-mallangi-0085a1300/)
 [![GitHub](https://img.shields.io/badge/GitHub-HARI--COLLA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HARI-COLLA)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mallangiharinathreddy727@gmail.com)
+[![LoopCode](https://img.shields.io/badge/LoopCode-Live%20Product-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://loopcode.heksync.in/)
 
 </div>
 
@@ -18,13 +19,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science graduate specializing in Cloud Computing, with hands-on experience gained through DevOps, AWS Cloud, and Machine Learning internships and practical projects.
+I'm a Computer Science graduate specializing in Cloud Computing, with hands-on experience from DevOps, AWS Cloud, and Machine Learning internships, along with practical engineering projects.
 
-I work on automating software delivery, provisioning cloud infrastructure using Infrastructure as Code, containerizing applications with Docker, orchestrating workloads with Kubernetes, and monitoring applications for reliability.
+- ☁️ Experienced in cloud infrastructure, AWS services, and Infrastructure as Code.
+- 🐳 Interested in containerization, Kubernetes orchestration, CI/CD, GitOps, and reliability engineering.
+- 🚀 Building **LoopCode**, a live AI-powered coding application with my teammates.
+- 🤖 Expanding my knowledge of Machine Learning, LLMs, RAG, and AI agents.
+- 🌍 Open to full-time engineering opportunities worldwide.
 
-My interests also extend to Machine Learning and modern AI systems. I'm currently expanding my knowledge of Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI agents, with a long-term goal of combining cloud engineering and intelligent application development.
-
-
+---
 
 ## 🚀 Featured Product — LoopCode
 
@@ -32,68 +35,51 @@ My interests also extend to Machine Learning and modern AI systems. I'm currentl
 
 **From ideas to implementation — building AI-powered developer tools with my team.**
 
-I'm contributing to **LoopCode**, a live AI-powered coding application that we're building as a team. Inspired by the evolution of tools like Google Antigravity and Amazon Kiro, our goal is to make AI-assisted software development more accessible, productive, and cost-effective.
+I'm contributing to **LoopCode**, a live AI-powered coding application inspired by the evolution of agentic development tools such as Google Antigravity and Amazon Kiro.
 
-LoopCode brings AI-assisted development into developers' workflows through desktop, command-line, and VS Code experiences.
+Our goal is to make AI-assisted software development more accessible, productive, and cost-effective.
 
-**✨ What makes LoopCode exciting**
+**✨ Product vision**
+
 - 🧠 **Codebase understanding:** Help developers explore existing code and understand project context.
 - 🛠️ **AI-assisted development:** Support coding, debugging, and refactoring workflows.
-- 📋 **Plan and execute:** Turn development requests into implementation steps and code changes.
-- 🔍 **Developer control:** Review changes, inspect results, and guide the coding process.
-- 💡 **Cost-conscious AI:** Our vision is to deliver strong coding results while making AI-assisted development more affordable.
+- 📋 **Planning and execution:** Help translate development requests into actionable implementation steps.
+- 🔍 **Developer control:** Keep developers involved in reviewing and guiding changes.
+- 💡 **Cost-conscious AI:** Aim to deliver strong coding results at a lower cost.
 
-**🤝 My contribution:** Building LoopCode alongside my teammates and contributing to our vision of making AI-powered software development more accessible.
+**🤝 My contribution:** Building LoopCode alongside my teammates. My specific technical responsibilities can be added here to highlight my individual work.
 
-🌐 **Explore the live product:** https://loopcode.heksync.in/
-
-
-- ☁️ **Cloud:** AWS infrastructure, networking, storage, and serverless services
-- 🐳 **Containers:** Docker, Kubernetes, and Amazon EKS
-- ⚙️ **Automation:** Terraform, GitHub Actions, Jenkins, and Argo CD
-- 📊 **Monitoring:** Prometheus, Grafana, and Amazon CloudWatch
-- 🤖 **AI learning:** Machine Learning, LLMs, RAG, and AI agents
-- 🌍 **Availability:** Open to opportunities worldwide
+🌐 **Try the live product:** [loopcode.heksync.in](https://loopcode.heksync.in/)
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### ☁️ Cloud & Infrastructure
+<div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Cloud, Infrastructure & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,git,github,githubactions,jenkins,prometheus,grafana" alt="AWS, Terraform, Docker, Kubernetes, Linux, Git, GitHub, GitHub Actions, Jenkins, Prometheus and Grafana" />
+
+### Programming, Databases & Development
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,mongodb,react,nodejs,typescript" alt="Python, Java, MySQL, PostgreSQL, MongoDB, React, Node.js and TypeScript" />
+
+### AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="Python, PyTorch and TensorFlow" />
+
+</div>
 
 **AWS Services:** EC2, S3, VPC, IAM, EKS, ECR, ALB, RDS, Lambda, API Gateway, DynamoDB, CloudWatch, SNS, Fargate, Route 53, Cognito, Amplify.
 
-### 🐳 Containers & Orchestration
+**CI/CD & GitOps:** GitHub Actions, Jenkins, Argo CD, automated builds, deployment workflows, and Infrastructure as Code.
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon ECR](https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+**Monitoring & Reliability:** Prometheus, Grafana, Amazon CloudWatch, logging, alerting, and troubleshooting.
 
-### ⚙️ CI/CD & GitOps
+**Security & Networking:** IAM, Security Groups, VPC networking, load balancing, DNS, and application access controls.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
-### 📊 Monitoring & Observability
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![AWS CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 💻 Programming & Data
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Core foundations:** Linux, networking, VPCs, Security Groups, load balancing, DNS, IAM access controls, and application troubleshooting.
+**AI learning focus:** Machine Learning, Deep Learning, Large Language Models, Retrieval-Augmented Generation, and AI agents.
 
 ---
 
@@ -105,11 +91,11 @@ LoopCode brings AI-assisted development into developers' workflows through deskt
 
 Designed an automated deployment workflow for a Java microservice and provisioned Kubernetes infrastructure on AWS.
 
-- Provisioned an Amazon EKS cluster inside a VPC using reusable Terraform modules.
+- Provisioned an Amazon EKS cluster inside a VPC using Terraform.
 - Built a CI/CD workflow with GitHub Actions and Argo CD to automate application build and deployment.
 - Used Docker to package applications into consistent container images.
 - Applied Kubernetes orchestration as part of a microservices architecture.
-- Configured load-balancer access and Route 53 DNS for frontend accessibility.
+- Configured load-balancer access and Route 53 DNS.
 - Used Infrastructure as Code to manage cloud resources consistently.
 
 **Key areas:** Infrastructure as Code, containerization, Kubernetes, CI/CD, GitOps, and cloud networking.
@@ -140,28 +126,28 @@ Deployed a containerized 2048 game on Kubernetes and configured external access 
 - Integrated IAM OIDC for workload identity configuration.
 - Used AWS Fargate to run workloads without managing EC2 worker nodes.
 
-**Key areas:** Docker containers, Kubernetes resources, ingress routing, IAM integration, and managed compute.
+**Key areas:** Docker, Kubernetes resources, ingress routing, IAM integration, and managed compute.
 
-> **Project repositories:** Add direct repository or demo URLs to these project headings when available. No project URLs have been assumed.
+> Add direct GitHub repository links to the project titles when the repositories are available.
 
 ---
 
 ## 💼 Professional Experience
 
 <details>
-<summary><strong>DevOps Engineer Intern — Namaah Pvt Ltd | Mar 2026 – Sep 2026</strong></summary>
+<summary><strong>DevOps Engineer Intern — Namaah Pvt Ltd | March 2026 – September 2026</strong></summary>
 
-- **CI/CD automation:** Built and maintained GitHub Actions pipelines to automate application build, test, and deployment across development and testing environments.
-- **Cloud infrastructure:** Managed AWS EC2 application servers, including instance setup, configuration, and Security Group access.
-- **Containerization:** Packaged applications with Docker and deployed workloads on Amazon EKS using Kubernetes.
-- **Monitoring and troubleshooting:** Used Amazon CloudWatch logs, metrics, and alerts to investigate failures, perform root-cause analysis, and support application reliability.
+- Built and maintained GitHub Actions pipelines to automate application build, test, and deployment workflows.
+- Managed AWS EC2 application servers, including instance setup, configuration, and Security Group access.
+- Packaged applications with Docker and deployed workloads on Amazon EKS using Kubernetes.
+- Used Amazon CloudWatch logs, metrics, and alerts to investigate failures, perform root-cause analysis, and support application reliability.
 
 **Technologies:** AWS EC2, Amazon EKS, Docker, Kubernetes, GitHub Actions, CloudWatch.
 
 </details>
 
 <details>
-<summary><strong>AWS Cloud Intern — F13 Technologies | Oct 2025 – Jan 2026</strong></summary>
+<summary><strong>AWS Cloud Intern — F13 Technologies | October 2025 – January 2026</strong></summary>
 
 - Managed AWS EC2, S3, RDS, VPC, and Security Groups supporting application environments.
 - Built serverless workflows with AWS Lambda and API Gateway to automate backend operations.
@@ -173,7 +159,7 @@ Deployed a containerized 2048 game on Kubernetes and configured external access 
 </details>
 
 <details>
-<summary><strong>Machine Learning Intern — Infosys Springboard | Oct 2024 – Dec 2024</strong></summary>
+<summary><strong>Machine Learning Intern — Infosys Springboard | October 2024 – December 2024</strong></summary>
 
 - Built unsupervised anomaly-detection models using deep-learning autoencoders on healthcare provider data for fraud detection.
 - Performed exploratory data analysis, preprocessing, and feature engineering.
@@ -183,38 +169,55 @@ Deployed a containerized 2048 game on Kubernetes and configured external access 
 
 </details>
 
+---
 
 ## 🎓 Education, Certifications & Achievements
 
 - 🎓 **B.Tech in Computer Science (Cloud Computing)** — Alliance University, 2026
-- 📚 **CGPA:** 8.2/10
+- 📊 **CGPA:** 8.2/10
 - ☁️ **AWS Cloud Practitioner Essentials** — AWS Training, November 2025
-- 🏆 **Top 3 finalist** — Code Sangram Hackathon
+- 🏆 **Top 3 Finalist** — Code Sangram Hackathon
 
 ---
 
 ## 🌱 Current Learning Focus
 
-- **Machine Learning & Deep Learning:** Strengthening model-building and evaluation fundamentals.
-- **Large Language Models:** Learning tokenization, embeddings, transformers, and text generation.
-- **Retrieval-Augmented Generation:** Exploring retrieval pipelines, vector search, and grounding LLM responses in relevant information.
-- **AI Agents:** Learning how agents use tools, manage tasks, and coordinate multi-step workflows.
-- **AI deployment & operations:** Working toward understanding how AI applications can be deployed, monitored, and operated reliably.
+- **Machine Learning & Deep Learning:** Model building, training, evaluation, and fundamentals.
+- **Large Language Models:** Tokenization, embeddings, transformers, and text generation.
+- **Retrieval-Augmented Generation:** Retrieval pipelines, vector search, and grounded responses.
+- **AI Agents:** Tool use, task planning, and multi-step workflows.
+- **AI deployment & operations:** Applying cloud engineering, monitoring, and reliability practices to AI applications.
 
 *These are learning goals, not claims of production AI engineering experience.*
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Activity
 
-I'm open to **Cloud Engineer, DevOps Engineer, and relevant entry-level engineering opportunities worldwide**.
+<div align="center">
 
-🌍 **Work preferences:** Open to on-site, hybrid, and remote opportunities across locations.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HARI-COLLA&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-mallangi-0085a1300/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mallangiharinathreddy727@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HARI-COLLA)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARI-COLLA&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
+
+<img src="https://streak-stats.demolab.com?user=HARI-COLLA&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
 
 ---
 
-<sub>GitHub statistics, activity graphs, typing animations, and badges rely on public services that may occasionally be rate-limited or unavailable. Refresh later or consider self-hosting the widget services if problems persist.</sub>
+## 🤝 Let's Connect
+
+I'm open to **Cloud Engineer, DevOps Engineer, SRE, and relevant entry-level engineering opportunities worldwide**.
+
+🌍 **Work preferences:** Open to on-site, hybrid, and remote opportunities across locations.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-mallangi-0085a1300/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HARI-COLLA)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mallangiharinathreddy727@gmail.com)
+[![LoopCode](https://img.shields.io/badge/LoopCode-Explore-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://loopcode.heksync.in/)
+
+</div>
+
