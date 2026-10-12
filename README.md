@@ -2,7 +2,7 @@
 
 # Hi, I'm Mallangi Harinath Reddy 👋
 
-### ☁️ Cloud & DevOps Engineer | 🐳 Containerization | ⚙️ Infrastructure Automation
+### ☁️ Cloud & DevOps Engineer | Site Reliability Engineering (SRE)
 
 **Building reliable cloud infrastructure, automating deployments, and exploring AI-powered systems.**
 
