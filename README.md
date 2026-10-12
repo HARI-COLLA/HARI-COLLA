@@ -57,17 +57,16 @@ Our goal is to make AI-assisted software development more accessible, productive
 
 <div align="center">
 
-### Cloud, Infrastructure & DevOps
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,git,github,githubactions,jenkins,prometheus,grafana,python,java,mysql,postgres,mongodb,react,nodejs,typescript,pytorch,tensorflow" alt="AWS, Terraform, Docker, Kubernetes, Linux, Git, GitHub, GitHub Actions, Jenkins, Prometheus, Grafana, Python, Java, MySQL, PostgreSQL, MongoDB, React, Node.js, TypeScript, PyTorch and TensorFlow" />
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,git,github,githubactions,jenkins,prometheus,grafana" alt="AWS, Terraform, Docker, Kubernetes, Linux, Git, GitHub, GitHub Actions, Jenkins, Prometheus and Grafana" />
+<br/><br/>
 
-### Programming, Databases & Development
-
-<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,mongodb,react,nodejs,typescript" alt="Python, Java, MySQL, PostgreSQL, MongoDB, React, Node.js and TypeScript" />
-
-### AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="Python, PyTorch and TensorFlow" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+<img src="https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-0B7285?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/AI%20Agents-Agentic%20AI-6C63FF?style=for-the-badge" alt="AI Agents" />
+<img src="https://img.shields.io/badge/Machine%20Learning-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Vector%20Databases-Embeddings%20%26%20Search-16825D?style=for-the-badge" alt="Vector Databases" />
 
 </div>
 
